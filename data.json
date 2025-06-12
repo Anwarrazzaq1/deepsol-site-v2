@@ -1,0 +1,5 @@
+token": "DSL",
+  "price": 0.045,
+  "marketCap": 1200000
+Add data.json file with token info
+Commit directly to the main branch
